@@ -3,5 +3,8 @@
 ### Built for Udemy Course on Vanilla JS
 
 - HTML5
-- Using Skeleton CSS
+- Skeleton CSS
+- JS
+
+<img width="369" alt="screen shot 2018-08-30 at 10 33 20 am" src="https://user-images.githubusercontent.com/27019342/44868623-344ac580-ac40-11e8-92d7-6060c05f07d8.png">
 
